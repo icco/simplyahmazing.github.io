@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "On VIM"
+date:   2014-10-19 14:10:20
+categories: writing meta
+---
+
+I started using vim about 1 year ago and I love it. I'm currently writing this post in VIM. When I was first contemplating using VIM I was very intimidated due to all the articles and internet conversations that say it takes years to learn, you won't be productive for a very long-time, it's not worth it, etc. Up to this point in my career I have used many IDEs and text editors - Visual Studio, Eclipse, Sublime Text, gedit, etc - and I had no problem with these gui driven tools. But there was this other world of terminal based editors that I wanted to explore.
+
+Here are some tips for those just starting out with VIM:
+
+1. Play VIM Adventures[vim-adventures]. It was the #1 resource that helped me with get comfortable with the VIM navigation and special actions. I didn't make this game and I don't know the owner but it's the best resource I've used.
+2. Always Google what is painful. If you don't want to put a [comma][comma-at-line-end] at the end of every line or you wish you could create a file from inside your current editing session.
+3. But read the [wiki][vim-wiki] to understand a set of commands/features more deeply.
+
+[comma-at-line-end]: http://stackoverflow.com/questions/594448/how-can-i-add-a-string-to-the-end-of-each-line-in-vim
+[vim-adventures]: http:vim-adventures.com
+[vim-wiki]: http://vim.wikia.com/wiki/Vim_Tips_Wiki
