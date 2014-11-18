@@ -9,10 +9,10 @@ I started using vim about 1 year ago and I love it. I'm currently writing this p
 
 Here are some tips for those just starting out with VIM:
 
-1. Play VIM Adventures[vim-adventures]. It was the #1 resource that helped me with get comfortable with the VIM navigation and special actions. I didn't make this game and I don't know the owner but it's the best resource I've used.
+1. Play [VIM Adventures][vim-adventures]. It was the #1 resource that helped me with get comfortable with the VIM navigation and special actions. I didn't make this game and I don't know the owner but it's the best resource I've used.
 2. Always Google what is painful. If you don't want to put a [comma][comma-at-line-end] at the end of every line or you wish you could create a file from inside your current editing session.
 3. But read the [wiki][vim-wiki] to understand a set of commands/features more deeply.
 
-[comma-at-line-end]: http://stackoverflow.com/questions/594448/how-can-i-add-a-string-to-the-end-of-each-line-in-vim
-[vim-adventures]: http:vim-adventures.com
-[vim-wiki]: http://vim.wikia.com/wiki/Vim_Tips_Wiki
+[vim-adventures]:       http://vim-adventures.com
+[comma-at-line-end]:    http://stackoverflow.com/questions/594448/how-can-i-add-a-string-to-the-end-of-each-line-in-vim
+[vim-wiki]:             http://vim.wikia.com/wiki/Vim_Tips_Wiki
