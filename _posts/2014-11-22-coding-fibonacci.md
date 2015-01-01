@@ -35,8 +35,10 @@ def fib_with_memoization(n):
 
     if n < 2:
         return n
+    else:
+        KNOWN_FIBS[n] = fib(n-1) + fib(n-2)
 
-    return fib(n-1) + fib(n-2)
+    return KNOWN_FIBS.get(n)
 {% endhighlight %}
 
 <br>
