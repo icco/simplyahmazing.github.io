@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Life is Tultuous"
+title:  "Life is Tumulltuous"
 date:   2014-12-07 12:10:00
 categories: essays readings excerpts
 ---

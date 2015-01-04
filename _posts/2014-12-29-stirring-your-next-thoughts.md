@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Stirring Your Next Thoughts"
-date:   2014-12-27 12:10:00
+date:   2014-12-29 12:10:00
 categories: reflection
 ---
 
