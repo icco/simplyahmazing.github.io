@@ -29,3 +29,6 @@ My roommate turned on CNN and I helplessly felt gripped by emotions from watchin
 But... I don't know anything about life, this is my first try at it. Like everyone else I'm just winging it, so let us wing on everyone!
 
 ** I should note that I love journalism and the people in this industry. We need more people, of pure intentions, to go into this field.
+
+
+
