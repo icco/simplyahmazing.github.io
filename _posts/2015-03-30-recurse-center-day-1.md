@@ -5,9 +5,6 @@ date:   2015-03-30 23:47:20
 categories: writing "hacker school" "recurse center"
 ---
 
-It's day 1 of Recurse Center. In my head I keep thinking 
-
-
 Today was day 1 of Recurse Center (formerly known as Hacker School). Day 1 has been awesome and very, very exhausting -- but in a good way. I've met a ton of cool people and there are still many more to meet.
 
 I spent the day 1 just chatting to different people, getting a feel for the various projects being worked on. I tried to understand the backgrounds and skills people have. Everyone here is awesome. Here's a rough summary of things I participated in today,
