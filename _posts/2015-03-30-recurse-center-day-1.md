@@ -24,6 +24,7 @@ I spent the day 1 just chatting to different people, getting a feel for the vari
 10. Talked to Anthony on his Android app that collects data from an Android phone sensor
 11. Attended Neha's talk on Databases and Consistency.
 12. Talked to Geoffrey about Taekwondo and his background
+13. Talked to Heidi about getting more into UI/UX
 
 I've probably missed many other conversations but there was a lot of socializing and mixing of ideas today.
 
