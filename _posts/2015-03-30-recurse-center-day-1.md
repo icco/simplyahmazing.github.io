@@ -11,7 +11,7 @@ I spent the day 1 just chatting to different people, getting a feel for the vari
 
 1. Talking to everyone -- tried my best to be a social butterfly.
 2. Attended a "Learn Haskell" session with Alan (Facilitator). It was a good learning experience. My coursework on ML from the Coursera Programming Languages class has made a lot of Haskell easier to understand but I've still got a ways to fully wrap my ahead around a fully functional language.
-3. Discussed ways Nikki Bee can refactor his existing word scrambler program
+3. Discussed ways Nikki Bee can refactor her existing word scrambler program
 4. Briefly hovered over the shoulders of Bob and Serban as they were going through the React Native tutorial
 5.  Talked to Deanna about Robotics, Electrical Engineering & Computer Science, writing C/C++ code and contributing to Open Source projects, technical interviewing.
 6. Talked to Neha & Dakota about Machine Learning, MIT, computer science Masters vs PhD
