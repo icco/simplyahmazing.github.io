@@ -37,5 +37,5 @@ Somethings I plan on doing tomorrow,
 5. Talk to Andrew & Serena about their NLP work
 6. Talk to Joel about his React/Haskell work if time allows
 
-My goal in general is to spend the next 2 weeks just absorbing and learning from others. I'm not interested. I think there'll be plenty of time for me to setup and pursue my own projects.
+My goal in general is to spend the next 2 weeks just absorbing and learning from others. I'm too interested in purusing my own projects just yet. I think there'll be plenty of time for me to setup and pursue my own projects.
  
