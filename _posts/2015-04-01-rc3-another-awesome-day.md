@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Another Awesome Day -- RC Day 3"
-date:   2015-03-31 23:47:20
+date:   2015-04-01 23:47:20
 categories: writing "hacker school" "recurse center"
 ---
 
