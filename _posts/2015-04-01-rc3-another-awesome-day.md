@@ -6,7 +6,7 @@ categories: writing "hacker school" "recurse center"
 ---
 
 
-This morning RC'er [Goncalo](https://twitter.com/gnclmorais) made/showed me and [Serena](https://twitter.com/sereprz) ["Bulletproof coffee"](http://en.wikipedia.org/wiki/Bulletproof_Coffee). Mad respect to Goncalo. The coffee was tasty and made for a great start to the day. I just googled bulletproof coffee and it seems to be a controversial topic on the inter-webs. I plan on giving it a 'shot', actually, you're supposed to have it in cups..
+This morning RC'er [Gonçalo](https://twitter.com/gnclmorais) made/showed me and [Serena](https://twitter.com/sereprz) ["Bulletproof coffee"](http://en.wikipedia.org/wiki/Bulletproof_Coffee). Mad respect to Goncalo. The coffee was tasty and made for a great start to the day. I just googled bulletproof coffee and it seems to be a controversial topic on the inter-webs. I plan on giving it a 'shot', actually, you're supposed to have it in cups..
 
 
 ## Pairing with [Serena](https://twitter.com/sereprz)
