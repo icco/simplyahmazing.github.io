@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "And Then I Accidentally Gave a Lightning Talk -- RC Day 4"
-date:   2015-04-01 23:47:20
+date:   2015-04-02 23:47:20
 categories: writing "hacker school" "recurse center"
 ---
 
