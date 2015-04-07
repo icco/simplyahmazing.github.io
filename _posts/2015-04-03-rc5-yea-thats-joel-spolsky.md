@@ -14,3 +14,5 @@ I wanted to go up to him and be like, 'dude I love your blog and the companies y
 The StackOverflow office is pretty dope. They have all things a pampered tech office would have -- game rooms, kitchen + cafeteria, cafe, libraries, fancy desks, and so on. But the best part about their office was the view. I didn't take picture but I remember it and it was epic. Apparently they hold meet ups there, so I'll have a chance to enjoy their space sometime in the future.
 
 ## Who was my friend @ SO?
+
+Before I left my job to come to RC, I gave a 6 week notice. During which I helped recruit for my replacement. During this recruiting process I got to work with Stack Overflow sales person because we made a posting on their site. Earlier in the week the sales person wanted to follow up with me on the candidate search but I told them I have moved on to RC and am currently in New York. So my new sales friend invited me over for coffee and then gave me a tour of their office. It was pretty fun visit overall.
